@@ -22,8 +22,8 @@ Simple Alarm Clock is a Python application with a graphical user interface (GUI)
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd simple-alarm-clock
+   git clone https://github.com/fahadelahikhan/Alarm-Clock-App.git
+   cd Alarm-Clock-App
    ```
 2. Ensure Python 3.8 or higher is installed.
 3. No additional dependencies are required, as the project uses Python's standard library (`tkinter`, `time`, `threading`, and `winsound`).
@@ -31,7 +31,7 @@ Simple Alarm Clock is a Python application with a graphical user interface (GUI)
 ### Basic Usage
 1. Run the application:
    ```bash
-   python alarm_clock.py
+   python Alarm Clock App.py
    ```
 2. Enter a time in HH:MM format (e.g., `07:30`) in the input field.
 3. Click "Set Alarm" to activate the alarm or "Cancel Alarm" to deactivate it.
