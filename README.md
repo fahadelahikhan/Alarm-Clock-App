@@ -38,4 +38,4 @@ Simple Alarm Clock is a Python application with a graphical user interface (GUI)
 4. When the alarm triggers, a pop-up message appears, and a beep sound plays (on Windows).
 
 ## License
-Distributed under the MIT License. See `LICENSE.txt` for details.
+Distributed under the CC BY-NC-ND 4.0 License. See `LICENSE.txt` for details.
