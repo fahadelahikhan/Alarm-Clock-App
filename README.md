@@ -1,7 +1,7 @@
 # Simple Alarm Clock
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
+![License](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-red)
 
 ## Screenshot
 ![Screenshot](assets/Alarm_Clock_App_UI.png)
