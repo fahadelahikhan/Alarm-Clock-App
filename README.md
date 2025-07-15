@@ -4,7 +4,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 ## Screenshot
-![Screenshot](assets/Alarm Clock App UI.png)
+![Screenshot](assets/Alarm_Clock_App_UI.png)
 
 
 ## Description
